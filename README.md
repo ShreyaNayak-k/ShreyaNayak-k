@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on building scalable Java application with **Spring Boot**
 - 🌱 Exploring **Microservices**, **Docker**, and **Spring Security**
 - 🤝 Passionate about collaboration, mentoring, and documentation
-- 📫 Reach me at: [your.email@example.com](mailto:shreyanayak.k0@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/shreya-nayak-k/)
+- 📫 Reach me at:(mailto:shreyanayak.k0@gmail.com)
+- 💼 LinkedIn:(https://www.linkedin.com/in/shreya-nayak-k/)
 
 ---
 

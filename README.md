@@ -8,11 +8,17 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on building scalable Java application with **Spring Boot**
-- 🌱 Exploring **Microservices**, **Docker**, and **Spring Security**
-- 🤝 Passionate about collaboration, mentoring, and documentation
-- 📫 Reach me at:(mailto:shreyanayak.k0@gmail.com)
-- 💼 LinkedIn:(https://www.linkedin.com/in/shreya-nayak-k/)
+- 🎯 2+ years of experience in backend development using **Java**, **Spring Boot**, **Spring MVC**, and **Hibernate**
+- 🔐 Currently exploring **Spring Security**, **Docker**, and **Microservices**
+- 🧠 Passionate about writing clean, efficient code and working in Agile teams
+
+
+### 🎨 Outside of Work
+
+- 🍳 Love experimenting with new recipes in the kitchen  
+- ✍️ Enjoy sketching, doodling, and DIY crafts  
+- 🧵 Passionate about handmade art and creative projects
+
 
 ---
 

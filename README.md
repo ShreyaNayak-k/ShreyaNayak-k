@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there 👋, I'm Shreya Nayak K
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;Clean+Code+%7C+Agile+%7C+Team+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Backend+Developer"alt="Typing SVG" />
 </h1>
 
 ---

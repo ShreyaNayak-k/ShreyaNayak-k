@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 2+ years of experience in backend development using **Java**, **Spring Boot**, **Spring MVC**, and **Hibernate**
+- 🎯 3+ years of experience in backend development using **Java**, **Spring Boot**, **Spring MVC**, and **Hibernate**
 - 🔐 Currently exploring **Spring Security**, **Docker**, and **Microservices**
 - 🧠 Passionate about writing clean, efficient code and working in Agile teams
 
